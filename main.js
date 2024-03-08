@@ -11,5 +11,5 @@ while(nomeUsuario == '' ) { // || nomeUsuario == null
 if (nomeUsuario == null){ 
   texto.textContent = 'Usuario';
 } else { 
-    texto.textContent = 
+    texto.textContent = nomeUsuario;
 }
