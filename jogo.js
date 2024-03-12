@@ -1,4 +1,4 @@
-let numeroSecreto == 7;
+let numeroSecreto = 7;
 
 prompt('Escolha um número entre 0 a 10');
 
