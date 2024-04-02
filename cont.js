@@ -3,5 +3,5 @@ console.log(botoes.length);
 
 for (let sas = 0; sas < botoes.length; sas++){
 console.log(sas);
-
+botoes[sas].classList.add('ativo');
 }
