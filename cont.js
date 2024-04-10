@@ -10,7 +10,7 @@ botoes[sas].onclick = function(){
         textos[j].classList.remove('ativa');
     }
 botoes[sas].classList.add('ativo');
-texto[sas].classList.add('ativa');
+textos[sas].classList.add('ativa');
 }
 }
 
