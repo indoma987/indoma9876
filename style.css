@@ -18,3 +18,14 @@ section{
 .ativo{
     border-bottom: 3px solid rgb(140, 0, 255);
 }
+.Textos{
+    text-align:center;
+} 
+
+.aba-conteudo{
+    display: none;
+}
+
+.ativa{
+    display: block;
+}
