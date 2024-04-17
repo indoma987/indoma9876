@@ -14,3 +14,6 @@ textos[sas].classList.add('ativa');
 }
 }
 
+const contadores = document.querySelectorAll('.contador');
+
+
